@@ -1,0 +1,30 @@
+html {
+  text-align: center;
+  font-family: arial;
+  height:100%;
+
+}
+
+body {
+  background-color: tan;
+  height: 100%;
+}
+img {
+  width: 40%;
+}
+.sidebar {
+  float:left;
+  width:30%;
+  background: url("http://slodive.com/wp-content/uploads/2012/04/wood-background/wood-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+}
+.header {
+  background-color: orange;
+}
+.pictures {
+  float: right;
+  width: 70%;
+}
