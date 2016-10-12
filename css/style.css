@@ -10,21 +10,29 @@ body {
   height: 100%;
 }
 img {
-  width: 40%;
+  width: 50%;
+  margin-top: 3px
+}
+ul {
+    list-style-type: none;
 }
 .sidebar {
   float:left;
-  width:30%;
+  width:10%;
   background: url("http://slodive.com/wp-content/uploads/2012/04/wood-background/wood-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
   height: 100%;
+  border-right: 2px grey solid;
+  padding: 2px;
+  margin: 2px;
+  text-align: justify;
 }
 .header {
   background-color: orange;
 }
 .pictures {
-  float: right;
-  width: 70%;
+  width: 90%;
+  align-items: center;
 }
